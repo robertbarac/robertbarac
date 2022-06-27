@@ -35,6 +35,7 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 ## Stats
 https://github-readme-stats.vercel.app/api?username={robertbarac}
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)](https://github.com/robertbarac/github-readme-stats)
 
 ## Most Used Languages:
 https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
@@ -42,6 +43,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
 ## Contact me:
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
 ---
 <!--
