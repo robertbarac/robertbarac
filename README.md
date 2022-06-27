@@ -40,10 +40,10 @@ I wanna continue making personal projects in data.
 
 ## Stats
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)](https://github.com/robertbarac/github-readme-stats)
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)]
 
 ## Most Used Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
+![Most Used:](https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac})
 
 ## Contact:
 ![LinkedIn]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
@@ -58,4 +58,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+(https://github.com/robertbarac/github-readme-stats)
 -->
