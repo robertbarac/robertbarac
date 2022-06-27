@@ -39,7 +39,7 @@ I wanna continue making personal projects in data.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac)](https://github.com/robertbarac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac)]
 
 ## Sumary Card
 ![Robert's Sumary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac}&theme=vue)
