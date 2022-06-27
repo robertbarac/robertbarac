@@ -22,26 +22,21 @@ I wanna continue making personal projects in data.
 ### Libraries & Frameworks:
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-
-https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Terminal & versions control:
 
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-
-https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-
-https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ### Metodologies:
-
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Sumary Card
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac}&theme=vue
+![Robert's Sumary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac}&theme=vue)
 
 ## Stats
 
