@@ -1,5 +1,9 @@
 # Hi everyone 👋 I'm Robert Barrios. 
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?mailto:ryba.9125@gmail.com)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 ## About me
 I'm in love with math & data science. I'm currently working in my personal projects about data analysis.
 I wanna continue making personal projects in data.
@@ -40,15 +44,13 @@ I wanna continue making personal projects in data.
 
 ## Stats
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)]
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=radical)]
 
 ## Most Used Languages:
 ![Most Used:](https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac})
 
 ## Contact:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?mailto:ryba.9125@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 ---
 <!--
 - 👯 I’m looking to collaborate on ...
