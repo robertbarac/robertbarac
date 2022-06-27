@@ -1,12 +1,48 @@
 # Hi everyone 👋 I'm Robert Barrios. 
 
+## About me
 I'm in love with math & data science. I'm currently working in my personal projects about data analysis.
 I wanna continue making personal projects in data.
 
 
 
 - 🔭 I’m currently working on: wine dataset, e-commerce dataset
-- 🌱 I’m currently learning: ML algorithms, Scikit Learn, MongoDB, English B1 level.
+- 🌱 I’m currently learning: ML algorithms, Scikit Learn, English (B1 level).
+
+
+## Projects
+
+
+## Technologies that I use:
+### Programming languages:
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
+### Libraries & Frameworks:
+https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+### Terminal & versions control:
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+
+### Metodologies:
+https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+
+## Sumary Card
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac}&theme=vue
+
+## Stats
+https://github-readme-stats.vercel.app/api?username={robertbarac}
+
+## Most Used Languages:
+https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
+
+## Contact me:
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 ---
 <!--
 - 👯 I’m looking to collaborate on ...
