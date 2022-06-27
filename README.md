@@ -44,7 +44,7 @@ I wanna continue making personal projects in data.
 
 ## Stats
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=radical)]
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
 
 ## Most Used Languages:
 ![Most Used:](https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac})
