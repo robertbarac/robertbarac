@@ -39,7 +39,7 @@ I wanna continue making personal projects in data.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac&layout=compact)]
 
 ## Sumary Card
-![Robert's Sumary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac})
+![Robert's Sumary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertbarac)
 
 ## Stats
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
