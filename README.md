@@ -47,7 +47,7 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 https://github-readme-stats.vercel.app/api?username={robertbarac}
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)](https://github.com/robertbarac/github-readme-stats)
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac)](https://github.com/robertbarac/github-readme-stats)
 
 ## Most Used Languages:
 https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac}
