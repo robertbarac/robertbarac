@@ -10,27 +10,24 @@ I wanna continue making personal projects in data.
 
 
 
-- 🔭 I’m currently working on: wine dataset, e-commerce dataset
+
 - 🌱 I’m currently learning: ML algorithms, Scikit Learn, English (B1 level).
 
 
 ## Projects
+- 🔭 I’m currently working on: wine dataset, e-commerce dataset, ![click here](https://github.com/robertbarac/EDA-Wines)
 
-
-## Technologies that I use:
+## Technologies that I use
 
 ### Programming languages:
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### Libraries & Frameworks:
-
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Terminal & versions control:
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
@@ -45,13 +42,10 @@ I wanna continue making personal projects in data.
 ![Robert's Sumary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertbarac})
 
 ## Stats
-
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
 
 ## Most Used Languages:
 ![Most Used:](https://github-readme-stats.vercel.app/api/top-langs/?username={robertbarac})
-
-## Contact:
 
 ---
 <!--
