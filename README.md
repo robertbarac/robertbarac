@@ -15,7 +15,7 @@ I wanna continue making personal projects in data.
 
 
 ## Projects
-- 🔭 I’m currently working on: wine dataset, e-commerce dataset, ![click here](https://github.com/robertbarac/EDA-Wines)
+- 🔭 I’m currently working on: wine dataset, e-commerce dataset, [click here](https://github.com/robertbarac/EDA-Wines)
 
 ## Technologies that I use
 
