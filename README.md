@@ -45,7 +45,7 @@ I wanna continue making personal projects in data.
 ## Education
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## Top Languages Card
+## Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac&layout=compact)
 
 ## Sumary Card
@@ -53,9 +53,6 @@ I wanna continue making personal projects in data.
 
 ## Stats
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
-
-## Most Used Languages:
-![Most Used:](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac)
 
 ---
 <!--
