@@ -1,7 +1,7 @@
 # Hi everyone 👋 I'm Robert Barrios. 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)(mailto:ryba.9125@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## About me
@@ -67,4 +67,5 @@ I wanna continue making personal projects in data.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 (https://github.com/robertbarac/github-readme-stats)
+(mailto:ryba.9125@gmail.com)
 -->
