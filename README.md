@@ -1,8 +1,10 @@
 # Hi everyone 👋 I'm Robert Barrios. 
 
-![LinkedIn](https://www.linkedin.com/in/robertbarack/)
+![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/robertbarack/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
 
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
