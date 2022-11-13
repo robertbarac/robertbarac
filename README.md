@@ -6,7 +6,7 @@
 &nbsp; <a href="https://www.instagram.com/robertbarac/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/robertbarack/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ryba.9125@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/kaggle.png" width="50" /></a>
+&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" /></a>
 </p>
 
 
