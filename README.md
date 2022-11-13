@@ -4,10 +4,9 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/robertbarack/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ryba.9125@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" /></a>
+&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/QrYhwpUzAcoy/kaggle-an-online-community-of-data-scientists-and-machine-learners%2C-owned-by-google" width="50" /></a>
 </p>
 
-![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)](mailto:ryba.9125@gmail.com)
 
 ## About me
 Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to transform organizations through the proper use of data, making the user understood and organizations adapting their products and/or services to the user. I'm working in tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML/DL libraries as TensorFlow, Keras, Scikit-Learn, among others. I'm finishing a ML bootcamp by Google. I also have knowledge in PostgreSQL, MySQL💻 I have some CRUD projects here. I was in Platzi Master, the more ambicious project to accelerate the IT skills in LatAm, specially in Data Science, Frontend & Backend 💻.
@@ -54,4 +53,6 @@ I love to teach mathematics, chemistry and physics 👨🏽‍🔬 I recently wa
 ![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/robertbarack/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+![image](https://user-images.githubusercontent.com/70554812/201545341-ebcd358b-0401-45a3-8781-2e290d7cebda.png)
 -->
