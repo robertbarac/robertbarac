@@ -1,9 +1,13 @@
 # Hi everyone 👋 I'm Robert Barrios. 
 
-![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/robertbarack/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+<p align="center">
+&nbsp; <a href="https://twitter.com/robertbarac" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/robertbarac/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/robertbarack/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ryba.9125@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/kaggle.png" width="50" /></a>
+</p>
 
 
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
@@ -49,4 +53,8 @@ https://www.kaggle.com/robertbarak
 - ⚡ Fun fact: ...
 (https://github.com/robertbarac/github-readme-stats)
 (mailto:ryba.9125@gmail.com)
+
+![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/robertbarack/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 -->
