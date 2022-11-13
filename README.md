@@ -4,7 +4,7 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/robertbarack/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ryba.9125@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/QrYhwpUzAcoy/kaggle-an-online-community-of-data-scientists-and-machine-learners%2C-owned-by-google" width="50" /></a>
+&nbsp; <a href="https://www.kaggle.com/robertbarak/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/70554812/201546219-11095c1c-ec52-47cd-886b-a8e7ce90a617.png" width="50" /></a>
 </p>
 
 
