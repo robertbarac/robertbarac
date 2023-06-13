@@ -29,12 +29,8 @@ I love to teach mathematics, chemistry and physics 👨🏽‍🔬 I recently wa
 ### Others:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
  
-## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac&layout=compact)
-
-
-## Stats
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
+## Most Used Languages:                                         ## Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbarac&layout=compact) ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarac&show_icons=true&theme=tokyonight)]
 
 ---
 <!--
