@@ -10,18 +10,20 @@
 
 
 ## About me
-Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to transform organizations through the proper use of data, making the user understood and organizations adapting their products and/or services to the user. I'm working in tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML/DL libraries as TensorFlow, Keras, Scikit-Learn, among others. I'm finishing a ML bootcamp by Google. I also have knowledge in PostgreSQL, MySQL💻 I have some CRUD projects here. I was in Platzi Master, the more ambicious project to accelerate the IT skills in LatAm, specially in Data Science, Frontend & Backend 💻.
+Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to transform organizations through the proper use of data, making the user understood and organizations adapting their products and/or services to the user. I'm working in tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML/DL libraries as TensorFlow, Keras, Scikit-Learn, among others. I finished in 2022 a ML bootcamp by Google. I also have knowledge in PostgreSQL, MySQL💻.
 
-I love to teach mathematics, chemistry and physics 👨🏽‍🔬 I recently was teacher in nature sciences 🧪 now in some days I'll be Python tutor in a EdTech startup. I'm chemist, graduated in 2021 👨🏻🎓 ⚗️ I'm a master student in chemistry. I'm working on my thesis about applying deep neural networks in chemistry 👨‍🔬🥽🧪 💻 specifically in near-infrared spectroscopy.
+I love to teach mathematics, chemistry and physics 👨🏽‍🔬 I recently was teacher in nature sciences 🧪. I'm chemist, graduated in 2021 👨🏻🎓 ⚗️ I'm a master student in chemistry. I'm working on my thesis about applying deep neural networks in chemistry 👨‍🔬🥽🧪 💻 specifically in near-infrared spectroscopy.
 
-- 🌱 I’m currently learning: Optimizing deep learning algorithms, hyperparameter tuning, TensorFlow, English (B1+ level).
+- 🌱 I’m currently learning: Optimizing deep learning algorithms, hyperparameter tuning, TensorFlow, English (B2 level).
 
 
 ## Projects
 🔭 I’m currently working on: 
+- Near-infrared spectra placed into a convolutional neural network to predict mechanical properties. r2_score reached of 0.99 in train set and 0.98 in test set. Writing the paper and thesis about this work.
+<!--
 - [Web Scraping Brazil 2014](https://github.com/robertbarac/Web_Scraping_Brazil_2014)
 - [Brazilian E-Commerce dataset](https://github.com/robertbarac/EDA-Brazilian-ecommerce)
-
+-->
 ## Technologies that I use
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
