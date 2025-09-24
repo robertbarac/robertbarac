@@ -10,16 +10,16 @@
 
 
 ## About me
-Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to transform organizations through the proper use of data, making the user understood and organizations adapting their products and/or services to the user. I'm working in tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML/DL libraries as TensorFlow, Keras, Scikit-Learn, among others. I finished in 2022 a ML bootcamp by Google. I also have knowledge in PostgreSQL, MySQL💻.
+Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to transform organizations through the proper use of data, making the user understood and organizations adapting their products and/or services to the user. I'm working in tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also ML/DL libraries as Pytorch, Scikit-Learn. I finished in 2022 a ML bootcamp by Google. I'm a master in PostgreSQL, MySQL💻, MongoDB, etc.
 
-I love to teach mathematics, chemistry and physics 👨🏽‍🔬 I recently was teacher in nature sciences 🧪. I'm working on my thesis about applying deep neural networks in near infrared spectroscopy 👨‍🔬🥽🧪 💻.
+
 
 <!-- - 🌱 I’m currently learning: Optimizing deep learning algorithms, hyperparameter tuning, TensorFlow, English (B2 level).-->
 
 
 ## Projects
 🔭 I’m currently working on: 
-- Near-infrared spectra placed into a convolutional neural network to predict mechanical properties. r2_score reached of 0.99 in train set and 0.98 in test set. Writing the paper and master thesis about this topic.
+- Near-infrared spectra placed into a convolutional neural network to predict mechanical properties. Improving metrics with GANs and Stable Difussion.
 <!--
 - [Web Scraping Brazil 2014](https://github.com/robertbarac/Web_Scraping_Brazil_2014)
 - [Brazilian E-Commerce dataset](https://github.com/robertbarac/EDA-Brazilian-ecommerce)
