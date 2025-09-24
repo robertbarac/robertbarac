@@ -20,6 +20,7 @@ Hello, I'm Robert, I'm a Python lover 🐍🐍, data scientist and eager to tran
 ## Projects
 🔭 I’m currently working on: 
 - Near-infrared spectra placed into a convolutional neural network to predict mechanical properties. Improving metrics with GANs and Stable Difussion.
+- [Preicfes](https://github.com/robertbarac/preicfes): A system to control the flow of classes, attendance, money, and student payments at a school.
 <!--
 - [Web Scraping Brazil 2014](https://github.com/robertbarac/Web_Scraping_Brazil_2014)
 - [Brazilian E-Commerce dataset](https://github.com/robertbarac/EDA-Brazilian-ecommerce)
